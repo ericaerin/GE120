@@ -1,6 +1,8 @@
 # GE120
 Lecture and ME samples/answers (AY23-24)
 
+# Lecture 8 and 9 samples and exercises uploaded.
+
 # Machine Exercise 4 uploaded.
 
 # Lecture 7 Basic Data Visualization Notebook:
