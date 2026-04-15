@@ -1,13 +1,11 @@
 # GE120
-Lecture and ME samples/answers (AY23-24)
+Lecture Samples
 
-# Lecture 8 and 9 samples and exercises uploaded.
-
-# Lecture 7 Basic Data Visualization Notebook:
+# Lecture 9 Basic Data Visualization Notebook:
 
 > use `Pokemon.csv` from Kaggle
 
-# Lecture 7 Maps Notebook:
+# Lecture 9 Maps Notebook:
 
 ### Folium
 
@@ -17,7 +15,7 @@ Lecture and ME samples/answers (AY23-24)
 
 > use `qc_brgys.gpkg`
 
-# Lecture 7 ipywidgets Notebook:
+# Lecture 9 ipywidgets Notebook:
 
 > use `dog.jfif`
 
